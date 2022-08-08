@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name ="Testcases">
+	<test name="scenarios">
+		<classes>
+			 <class name="com.sgtesting.tddconcept.AdditionTestCases"></class> 
+			 <class name="com.sgtesting.tddconcept.SubstractionDemo"></class> 
+			 <class name="com.sgtesting.tddconcept.MultiplicationDemo"></class> 
+			 <class name="com.sgtesting.tddconcept.DivisionTestCases"></class> 
+		</classes>
+	</test>
+</suite>
